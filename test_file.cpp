@@ -3,13 +3,12 @@
 #include <vector>
 
 using namespace std;
-
+// release 02
 // second feature
 
 int main() {
 
-    // smth first feature
-    // correct first feature
+    // bugfix
 
     int n;
     cin >> n;
