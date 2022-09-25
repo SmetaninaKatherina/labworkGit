@@ -8,6 +8,7 @@ int main() {
 
     // smth first feature
     // correct first feature
+    // correct on release
 
     int n;
     cin >> n;
