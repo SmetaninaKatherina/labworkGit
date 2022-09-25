@@ -5,6 +5,10 @@
 using namespace std;
 
 int main() {
+
+    // smth first feature
+    // correct first feature
+
     int n;
     cin >> n;
     int a;
