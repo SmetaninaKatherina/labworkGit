@@ -4,6 +4,8 @@
 
 using namespace std;
 
+// second feature
+
 int main() {
     int n;
     cin >> n;
