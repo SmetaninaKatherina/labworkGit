@@ -6,9 +6,7 @@ using namespace std;
 
 int main() {
 
-    // smth first feature
-    // correct first feature
-    // correct on release
+    // bugfix
 
     int n;
     cin >> n;
