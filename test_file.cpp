@@ -5,6 +5,9 @@
 using namespace std;
 
 int main() {
+
+    // smth first feature
+
     int n;
     cin >> n;
     int a;
