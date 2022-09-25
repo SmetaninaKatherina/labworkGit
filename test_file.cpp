@@ -6,6 +6,10 @@ using namespace std;
 // release 02
 // second feature
 
+// hotfix 02
+// release 02
+// second feature
+
 int main() {
 
     // bugfix
