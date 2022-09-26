@@ -1,0 +1,3 @@
+[submodule "labworkGitSubmodule"]
+	path = labworkGitSubmodule
+	url = https://github.com/SmetaninaKatherina/labworkGitSubmodule/
