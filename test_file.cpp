@@ -7,9 +7,12 @@ using namespace std;
 // second feature
 
 // hotfix 02
-// release 02
+
 // release 03
 // second feature
+
+
+>>>>>>> v1.0.1
 
 int main() {
 
