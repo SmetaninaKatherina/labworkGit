@@ -1,7 +1,0 @@
-[submodule "labworkGitSubmodule"]
-	path = labworkGitSubmodule
-<<<<<<< HEAD
-	url = https://github.com/SmetaninaKatherina/labworkGitSubmodule.git
-=======
-	url = https://github.com/SmetaninaKatherina/labworkGitSubmodule/
->>>>>>> release/v1.0
